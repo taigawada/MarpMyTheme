@@ -25,7 +25,7 @@ section.title {
 
 section.slides h1 {
     background: linear-gradient(to left, rgba(69, 179, 224, 1) 25%, rgb(97, 109, 218) 75%);
-    --webkit-background-clip: text;
+    -webkit-background-clip: text;
     color: transparent;
     font-family: 'Arial', 'Hiragino Kaku Gothic ProN';
     font-size: 42px;
